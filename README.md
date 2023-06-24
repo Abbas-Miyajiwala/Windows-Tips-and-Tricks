@@ -1,6 +1,6 @@
-# Windows-Tips-and-Tricks
-Hello Friends, I am Abbas Miyajiwala, Student at Jain(Deemed-to-be-University) currently studying BCA.
-In this Repository you will find some text files which have solutions to your very small issues that you may find in Daily use.
+<h1 align='center'>Windows-Tips-and-Tricks</h1>
+<h4 align='center'><i>I am Abbas Miyajiwala, Student at Jain(Deemed-to-be-University) currently studying BCA.</i></h4>
+<h3 align='center'>In this Repository you will find some text files which have solutions to your very small issues that you may find in daily use.</h3>
 
 The repo includes text files containing several tricks like knowing your battery health, shutting down your computer to BIOS, fetching the serial number of your machine etc.
 
